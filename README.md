@@ -1,7 +1,3 @@
 # personal_expenses_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+Flutter app using Dart code base that manages user expenses on devices.
+Works on Android & iOS.
