@@ -1,3 +1,6 @@
-# Expenses management app
-Flutter app using Dart code base that manages user expenses on devices.
-Works on Android & iOS.
+# Recipes app
+**Flutter app that has recipes with ingredients and preparation methods.**
+- Manages users’ settings and favorite dishes.
+- 5 pages in app, with many functionalities.
+- Works on iOS, Android, macOS, Windows, and Ubuntu.
+- Elegant UI/UX based on Android 11's *"Material You"*.
