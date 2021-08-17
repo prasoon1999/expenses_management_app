@@ -1,6 +1,5 @@
-# Recipes app
-**Flutter app that has recipes with ingredients and preparation methods.**
-- Manages users’ settings and favorite dishes.
-- 5 pages in app, with many functionalities.
+# Expenses management app
+**Flutter app that manages the user's transaction**
+- Consists a bar chart representing transaction history.
+- Lets user manage dates & info of transactions with their UID.
 - Works on iOS, Android, macOS, Windows, and Ubuntu.
-- Elegant UI/UX based on Android 11's *"Material You"*.
